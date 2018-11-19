@@ -65,7 +65,7 @@ def Reset(label):
         label['text']='-1'
 
 root = Tkinter.Tk()
-root.title("Stopwatch")
+root.title("ITS Timer")
 
 
 # Fixing the window size.
