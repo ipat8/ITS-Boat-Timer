@@ -1,7 +1,5 @@
-
-# Python program to illustrate a stop watch
-# using Tkinter
-#importing the required libraries
+### ITS Timer App
+#Import libraries
 import tkinter as Tkinter
 import webbrowser
 
